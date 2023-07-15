@@ -18,8 +18,8 @@ body {
 
 .svg {
   position: absolute;
-  left: 50rem;
-  bottom: 41rem;
+  left: 25rem;
+  top: 0.3rem;
   z-index: 1;
 }
 .container {
@@ -95,6 +95,7 @@ body {
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   gap: 1rem;
   width: 590px;
+  position: relative;
 }
 .content2 {
   grid-area: c2;
